@@ -6,4 +6,5 @@ class Dog
     @sit = sit
   end
   scotty= User.new("Woof", "The Dod is sitting")
-  puts 
+  puts scotty.bark
+  puts scotty.sit
