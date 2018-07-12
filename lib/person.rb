@@ -8,3 +8,4 @@ class Dog
   scotty= User.new("Woof", "The Dod is sitting")
   puts scotty.bark
   puts scotty.sit
+end
