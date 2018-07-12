@@ -5,4 +5,4 @@ class Dog
     @bark = bark
     @sit = sit
   end
-  scotty.
+  scotty= User.new
