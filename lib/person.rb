@@ -1,3 +1,3 @@
 # person.rb
 class Dog
-  attr_accessor
+  attr_accessor :bark, :sit, 
